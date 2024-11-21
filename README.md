@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kiizan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="kiizan" height="30" width="40" /></a>
-  <a href="https://x.com/kiizan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-ar21.svg" alt="kiizan" height="30" width="30" /></a>
+  <a href="https://x.com/kiizan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="kiizan" height="30" width="30" /></a>
   <a href="https://medium.com/@kiizan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="kiizan" height="30" width="30" /></a>
 </p>
 
