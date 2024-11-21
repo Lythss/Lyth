@@ -53,7 +53,7 @@
    - **Use case**: Basic data visualization.
    - **Description**: A fundamental Python plotting library that can generate static, animated, and interactive plots. It's often used for quick and simple visualizations, such as line charts, histograms, and scatter plots.
    - **Libraries**: `matplotlib`, `pyplot`
-   - ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg)
+   - ![Matplotlib Logo](https://camo.githubusercontent.com/3eed28e026e4e0220f99e2f4c8a517fcb3a30a1b944c528efc9533ff7840435f/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667)
 
 2. **Seaborn (Python)**
    - **Use case**: Statistical data visualization.
