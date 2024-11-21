@@ -49,6 +49,25 @@
 
 </p>
 </p>
+### Data Visualization Tools
+1. **Matplotlib (Python)**
+   - **Use case**: Basic data visualization.
+   - **Description**: A fundamental Python plotting library that can generate static, animated, and interactive plots. It's often used for quick and simple visualizations, such as line charts, histograms, and scatter plots.
+   - **Libraries**: `matplotlib`, `pyplot`
+   - ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg)
+
+2. **Seaborn (Python)**
+   - **Use case**: Statistical data visualization.
+   - **Description**: Built on top of Matplotlib, Seaborn provides a high-level interface for drawing attractive and informative statistical graphics. It's commonly used for correlation heatmaps, categorical plots, and distribution plots.
+   - **Libraries**: `seaborn`
+   - ![Seaborn Logo](https://seaborn.pydata.org/_static/logo-wide-light.svg)
+
+3. **Plotly (Python, JavaScript)**
+   - **Use case**: Interactive data visualizations.
+   - **Description**: Plotly is used for creating interactive, web-based visualizations. It supports a variety of charts, including time series, 3D plots, geographical maps, and more. Plotly is widely used for dashboards and real-time data visualization.
+   - **Libraries**: `plotly`, `plotly.express`
+   - ![Plotly Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Plotly-logo.png/400px-Plotly-logo.png)
+
 
 ### Projects:
 - 🌍 **[Real Estate Listings Scraping](https://github.com/kiizan/real-estate-listings-scraping)**: Data scraping project focused on extracting property details from real estate websites. Collects listing data like title, price, location, and more using **Selenium** and **BeautifulSoup**.
