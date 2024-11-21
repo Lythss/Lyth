@@ -36,11 +36,26 @@
 - 🤖 **[AI-based Data Insights](https://github.com/kiizan/ai-based-data-insights)**: A project focusing on **data analytics** and **machine learning** to derive insights from real estate data.
 
 <h3 align="left">My GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiizan&show_icons=true&locale=en&layout=compact&theme=radical" alt="kiizan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiizan&show_icons=true&locale=en&theme=radical" alt="kiizan" /></p>
+<!-- Top Languages -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiizan&show_icons=true&locale=en&layout=compact&theme=radical&card_width=400" alt="kiizan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical" alt="kiizan" /></p>
+<!-- General Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiizan&show_icons=true&locale=en&theme=radical&hide_title=true&hide_border=true&count_private=true&line_height=30" alt="kiizan" /></p>
+
+<!-- Streak Stats -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="kiizan" /></p>
+
+<!-- Contribution Graph -->
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kiizan&theme=radical&area=true&hide_border=true" alt="kiizan" /></p>
+
+<!-- Metrics and Extra Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kiizan?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/kiizan?label=Stars&style=social" alt="stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/kiizan?style=flat" alt="commit-activity" />
+</p>
+
 
 <h3 align="left">Fun Facts ⚡:</h3>
 - I am passionate about **cloud technologies** and **big data**.
