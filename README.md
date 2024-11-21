@@ -8,7 +8,7 @@
 🌱 Currently exploring **Machine Learning**, **Deep Learning**, and **Azure** cloud technologies.  
 📚 Learning about **Data Science**, **Data Engineering**, **AI**, and **Scala**.  
 💬 Ask me about **Data Engineering**, **Machine Learning**, **Deep Learning**, **Cloud Computing**, and **Scala**.  
-📫 How to reach me: **kiizan.email@example.com**.
+📫 How to reach me: **quixildev01@gmail.com**.
 
 ### Connect with me:
 <p align="left">
