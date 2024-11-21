@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiizan</h1>
 <h3 align="center">Data Engineer | Problem Solver | Data Science Enthusiast</h3>
 
-<img align="right" alt="Coding" width="470" height="430" src="https://i.postimg.cc/Dw2XTBCd/1-this.png">
+<img align="right" alt="Coding" width="470" height="430" src="file:///home/renji/Downloads/artificial-intelligence-landing-page_23-2148336410.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=0e75b6&style=flat" alt="kiizan" /> </p>
 
@@ -36,11 +36,11 @@
 - 🤖 **[AI-based Data Insights](https://github.com/kiizan/ai-based-data-insights)**: A project focusing on **data analytics** and **machine learning** to derive insights from real estate data.
 
 <h3 align="left">My GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiizan&show_icons=true&locale=en&layout=compact" alt="kiizan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiizan&show_icons=true&locale=en&layout=compact&theme=radical" alt="kiizan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiizan&show_icons=true&locale=en" alt="kiizan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiizan&show_icons=true&locale=en&theme=radical" alt="kiizan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&" alt="kiizan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical" alt="kiizan" /></p>
 
 <h3 align="left">Fun Facts ⚡:</h3>
 - I am passionate about **cloud technologies** and **big data**.
