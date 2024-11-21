@@ -59,13 +59,13 @@
    - **Use case**: Statistical data visualization.
    - **Description**: Built on top of Matplotlib, Seaborn provides a high-level interface for drawing attractive and informative statistical graphics. It's commonly used for correlation heatmaps, categorical plots, and distribution plots.
    - **Libraries**: `seaborn`
-   - ![Seaborn Logo](https://seaborn.pydata.org/_static/logo-wide-light.svg)
+   - ![Seaborn Logo](https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png)
 
 3. **Plotly (Python, JavaScript)**
    - **Use case**: Interactive data visualizations.
    - **Description**: Plotly is used for creating interactive, web-based visualizations. It supports a variety of charts, including time series, 3D plots, geographical maps, and more. Plotly is widely used for dashboards and real-time data visualization.
    - **Libraries**: `plotly`, `plotly.express`
-   - ![Plotly Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Plotly-logo.png/400px-Plotly-logo.png)
+   - ![Plotly Logo](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png)
 
 
 ### Projects:
