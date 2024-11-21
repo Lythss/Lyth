@@ -47,7 +47,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="kiizan" />
 </p>
 
-[![Kiizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiizan)](https://github.com/kiizan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiizan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
