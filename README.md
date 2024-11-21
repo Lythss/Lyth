@@ -63,7 +63,7 @@
 
 <!-- Updated Commit Activity Badge with Spring Green -->
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/kiizan/kiizan?style=flat&colorA=00FF7F&colorB=32CD32" alt="commit-activity" />
+  <img src="https://img.shields.io/github/commit-activity/y/kiizan/kiizan?style=flat&colorA=00FF7F&colorB=c9c9c9" alt="commit-activity" />
 </p>
 
 
