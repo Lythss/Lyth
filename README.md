@@ -26,7 +26,7 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="azure-patterns/docker.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/> </a>
    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
