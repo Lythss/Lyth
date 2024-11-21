@@ -1,80 +1,51 @@
-# Hi 👋, I'm Kiizan 👨‍💻
+<h1 align="center">Hi 👋, I'm Kiizan</h1>
+<h3 align="center">Data Engineer | Problem Solver | Data Science Enthusiast</h3>
 
-I'm a **Data Engineer** with a passion for transforming data into actionable insights. I specialize in building scalable data pipelines, automating data workflows, and utilizing the power of big data systems to solve real-world problems.
+<img align="right" alt="Coding" width="300" height="350" src="https://media.giphy.com/media/Kz7gK2fgd9tm0/giphy.gif">
 
-## 🌱 Currently learning:
-- Exploring **Cloud Platforms** (AWS, GCP) for data scalability.
-- Deep diving into **Machine Learning** and **AI integration** with big data.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=0e75b6&style=flat" alt="kiizan" /> </p>
 
-## 🔧 Technologies & Tools:
-### 💻 **Languages**:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- 🌱 Currently exploring **Machine Learning** and **Azure** cloud technologies.
+- 📚 Learning about **Data Science**, **Data Engineering**, and **AI**.
+- 💬 Ask me about **Data Engineering**, **Data Science**, **Machine Learning**, and **Cloud Computing**.
+- 📫 How to reach me: **kiizan.email@example.com**.
 
-### 🛠 **Tools & Frameworks**:
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-- ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017E7F?style=flat&logo=apache-airflow&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/kiizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiizan" height="30" width="40" /></a>
+  <a href="https://twitter.com/kiizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiizan" height="30" width="40" /></a>
+  <a href="https://medium.com/@kiizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kiizan" height="30" width="40" /></a>
+</p>
 
-### ☁️ **Cloud Platforms**:
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/PyTorch_logo_icon.png" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+</p>
 
----
+<h3 align="left">Projects:</h3>
 
-## 💬 Ask me about:
-- **Data Engineering** best practices and architecture.
-- Building **data pipelines** and automating ETL processes.
-- Integrating **big data** solutions and **machine learning** models.
+- 🌍 **[Real Estate Listings Scraping](https://github.com/kiizan/real-estate-listings-scraping)**: Data scraping project focused on extracting property details from real estate websites. Collects listing data like title, price, location, and more using **Selenium** and **BeautifulSoup**.
+- 🧑‍💻 **[PostgreSQL Real Estate Database](https://github.com/kiizan/real-estate-database)**: Implemented a database model for organizing real estate listings with **PostgreSQL** and **SQLAlchemy**. Includes project setup for **Docker** and basic CRUD operations.
+- 🤖 **[AI-based Data Insights](https://github.com/kiizan/ai-based-data-insights)**: A project focusing on **data analytics** and **machine learning** to derive insights from real estate data.
 
----
+<h3 align="left">My GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiizan&show_icons=true&locale=en&layout=compact" alt="kiizan" /></p>
 
-## 📫 How to reach me:
-- Email: **quixildev** ✉️
-- LinkedIn: [Kizan LinkedIn](https://www.linkedin.com/in/kizan) 🔗
-- Twitter: [@kizan](https://twitter.com/kizan) 🐦
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiizan&show_icons=true&locale=en" alt="kiizan" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&" alt="kiizan" /></p>
 
-## ⚡ Fun Fact:
-I believe data has the power to change the world, and I love making it speak through code. When I’m not deep in code, you can find me learning about emerging technologies or solving complex problems with creative solutions. 💡
-
----
-
-## 🌍 Connect with Me:
-[![Twitter](https://img.shields.io/badge/Twitter-@kizan-blue)](https://twitter.com/kizan)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kizan-blue)](https://www.linkedin.com/in/kizan)  
-[![GitHub](https://img.shields.io/badge/GitHub-Kizan-181717?style=flat&logo=github&logoColor=white)](https://github.com/kizan)
+<h3 align="left">Fun Facts ⚡:</h3>
+- I am passionate about **cloud technologies** and **big data**.
+- I enjoy solving complex **data engineering** and **machine learning** challenges.
 
 ---
 
-## 📈 GitHub Stats
-
-![Kizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🚀 Projects:
-- [**Data Engineering Pipeline**](https://github.com/kiizan/project1)  
-  A powerful data pipeline built to handle large-scale data ingestion and processing in real-time.
-
-- [**Automated ETL Processes**](https://github.com/kiizan/project2)  
-  Streamlining the ETL processes using Apache Airflow and optimizing data transformation workflows.
-
-- [**Machine Learning Models**](https://github.com/kiizan/project3)  
-  Building scalable ML models that integrate with big data platforms like Apache Spark.
-
----
-
-## 📊 Languages & Tools Breakdown
-
-![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs?username=kiizan&show_icons=true&locale=en&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![Kiizan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical)
+⭐ **Check out my repositories for more cool projects**!
