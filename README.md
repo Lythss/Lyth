@@ -49,13 +49,23 @@
 <!-- Contribution Graph -->
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kiizan&theme=radical&area=true&hide_border=true" alt="kiizan" /></p>
 
-<!-- Metrics and Extra Badges with custom colors -->
+<!-- Extra Badges with Custom Colors -->
 <p align="center">
+  <!-- Followers Badge -->
   <img src="https://img.shields.io/github/followers/kiizan?label=Followers&style=social&colorA=800080&colorB=8A2BE2" alt="followers" />
+  
+  <!-- Stars Badge -->
   <img src="https://img.shields.io/github/stars/kiizan?label=Stars&style=social&colorA=00FF7F&colorB=32CD32" alt="stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/kiizan?style=flat&colorA=808080&colorB=696969" alt="commit-activity" />
+
+  <!-- Repo Size Badge -->
   <img src="https://img.shields.io/github/repo-size/kiizan/kiizan?style=flat&colorA=FF00FF&colorB=8B008B" alt="repo-size" />
 </p>
+
+<!-- Updated Commit Activity Badge -->
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/kiizan/kiizan?style=flat&colorA=808080&colorB=696969" alt="commit-activity" />
+</p>
+
 
 
 
