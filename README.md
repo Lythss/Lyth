@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiizan</h1>
 <h3 align="center">Data Engineer | Problem Solver | Data Science Enthusiast</h3>
 
-<img align="right" alt="Coding" width="470" height="430" src="https://i.postimg.cc/Dw2XTBCd/1-this.png">
+<img align="right" alt="Coding" width="470" height="430" src="file:///home/renji/Downloads/artificial-intelligence-landing-page_23-2148336410.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=0e75b6&style=flat" alt="kiizan" /> </p>
 
@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/PyTorch_logo_icon.png" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
