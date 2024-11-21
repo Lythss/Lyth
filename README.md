@@ -51,7 +51,7 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kiizan&theme=radical&area=true&hide_border=true" alt="kiizan" />
 </p>
 
-### Extra Badges with Custom Colors:
+
 <p align="center">
   <!-- Followers Badge -->
   <img src="https://img.shields.io/github/followers/kiizan?label=Followers&style=social&colorA=800080&colorB=8A2BE2" alt="followers" />
