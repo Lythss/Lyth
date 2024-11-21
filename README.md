@@ -28,6 +28,9 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/> </a>
+   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adobe_Illustrator_CC_icon.png" alt="illustrator" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Adobe_After_Effects_CC_icon.png" alt="after-effects" width="40" height="40"/> </a>
+</p>
 </p>
 
 ### Projects:
