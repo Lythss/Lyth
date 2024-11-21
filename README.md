@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="470" height="430" src="https://i.postimg.cc/Dw2XTBCd/1-this.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=0e75b6&style=flat" alt="kiizan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=b60e75&style=flat" alt="kiizan" /> </p>
 
 - 🌱 Currently exploring **Machine Learning** and **Azure** cloud technologies.
 - 📚 Learning about **Data Science**, **Data Engineering**, and **AI**.
