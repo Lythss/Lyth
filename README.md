@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=ea00ff&style=flat" alt="kiizan" /> </p>
 
-🌱 Currently exploring **Machine Learning** and **Azure** cloud technologies.  
-📚 Learning about **Data Science**, **Data Engineering**, and **AI**.  
-💬 Ask me about **Data Engineering**, **Data Science**, **Machine Learning**, and **Cloud Computing**.  
+🌱 Currently exploring **Machine Learning**, **Deep Learning**, and **Azure** cloud technologies.  
+📚 Learning about **Data Science**, **Data Engineering**, **AI**, and **Scala**.  
+💬 Ask me about **Data Engineering**, **Machine Learning**, **Deep Learning**, **Cloud Computing**, and **Scala**.  
 📫 How to reach me: **kiizan.email@example.com**.
 
 ### Connect with me:
@@ -27,6 +27,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Scala-Logo.png" alt="scala" width="40" height="40"/> </a>
 </p>
 
 ### Projects:
@@ -47,9 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="kiizan" />
 </p>
 
-
-
-
 <p align="center">
   <!-- Followers Badge -->
   <img src="https://img.shields.io/github/followers/kiizan?label=Followers&style=social&colorA=800080&colorB=8A2BE2" alt="followers" />
@@ -66,10 +64,10 @@
   <img src="https://img.shields.io/github/commit-activity/y/kiizan/kiizan?style=flat&colorA=00FF7F&colorB=32CD32" alt="commit-activity" />
 </p>
 
-
 ### Fun Facts ⚡:
-- I am passionate about **cloud technologies** and **big data**.
-- I enjoy solving complex **data engineering** and **machine learning** challenges.
+- I am passionate about **cloud technologies**, **big data**, and **Deep Learning**.
+- I enjoy solving complex **data engineering**, **machine learning**, and **AI** challenges.
+- I'm also delving into **Scala** for building scalable data solutions.
 
 ---
 
