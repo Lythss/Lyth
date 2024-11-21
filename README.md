@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiizan</h1>
 <h3 align="center">Data Engineer | Problem Solver | Data Science Enthusiast</h3>
 
-<img align="right" alt="Coding" width="200" height="200" src="https://i.postimg.cc/YSzgKQ3m/big-data-grayscale-curved-net-1217-2000.png">
+<img align="right" alt="Coding" width="300" height="250" src="https://i.postimg.cc/YSzgKQ3m/big-data-grayscale-curved-net-1217-2000.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=0e75b6&style=flat" alt="kiizan" /> </p>
 
