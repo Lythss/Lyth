@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/github/followers/kiizan?label=Followers&style=social&colorA=800080&colorB=8A2BE2" alt="followers" />
   
   <!-- Stars Badge (Purple or Lavender) -->
-  <img src="https://img.shields.io/github/stars/kiizan?label=Stars&style=social&colorA=8A2BE2&colorB=5d00ff" alt="stars" />
+  <img src="https://img.shields.io/github/stars/kiizan?label=Stars&style=social&colorA=5d00ff&colorB=5d00ff" alt="stars" />
 
   <!-- Repo Size Badge -->
   <img src="https://img.shields.io/github/repo-size/kiizan/kiizan?style=flat&colorA=FF00FF&colorB=8B008B" alt="repo-size" />
