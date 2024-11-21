@@ -47,8 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="kiizan" />
 </p>
 
-[![Kiizan's GitHub Metrics](https://metrics.lecoq.io/kiizan?template=classic&repositories=true&achievements=beginner&languages=python&introduction=true&stars=true)](https://github.com/kiizan)
-
 
 
 
@@ -68,10 +66,6 @@
   <img src="https://img.shields.io/github/commit-activity/y/kiizan/kiizan?style=flat&colorA=00FF7F&colorB=32CD32" alt="commit-activity" />
 </p>
 
-<!-- GitHub Username Badge (Kiizan) -->
-<p align="center">
-  <img src="https://img.shields.io/github/user/status/kiizan?style=flat&colorA=8A2BE2&colorB=FF00FF&label=kiizan" alt="kiizan-badge" />
-</p>
 
 ### Fun Facts ⚡:
 - I am passionate about **cloud technologies** and **big data**.
