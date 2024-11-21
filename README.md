@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiizan</h1>
 <h3 align="center">Data Engineer | Problem Solver | Data Science Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" height="350" src="https://media.giphy.com/media/Kz7gK2fgd9tm0/giphy.gif">
+<img align="right" alt="Coding" width="300" height="350" src="[https://media.giphy.com/media/Kz7gK2fgd9tm0/giphy.gif](https://ibb.co/7jNXHLf)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=0e75b6&style=flat" alt="kiizan" /> </p>
 
