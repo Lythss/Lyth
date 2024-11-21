@@ -47,9 +47,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="kiizan" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kiizan&theme=radical&area=true&hide_border=true" alt="kiizan" />
-</p>
+[![Kiizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiizan)](https://github.com/kiizan/github-readme-stats)
+
 
 
 
