@@ -47,8 +47,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="kiizan" />
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kiizan&color=purple)](https://github.com/kiizan)
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=kiizan&repo=your-repository-name&theme=radical)](https://github.com/kiizan/your-repository-name)
+[![Profile Views](https://komarev.com/ghpvc/?username=kiizan&color=#6200ff)](https://github.com/kiizan)
 
 
 
