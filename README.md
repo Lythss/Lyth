@@ -54,16 +54,16 @@
   <!-- Followers Badge -->
   <img src="https://img.shields.io/github/followers/kiizan?label=Followers&style=social&colorA=800080&colorB=8A2BE2" alt="followers" />
   
-  <!-- Stars Badge -->
-  <img src="https://img.shields.io/github/stars/kiizan?label=Stars&style=social&colorA=00FF7F&colorB=32CD32" alt="stars" />
+  <!-- Stars Badge (Purple or Lavender) -->
+  <img src="https://img.shields.io/github/stars/kiizan?label=Stars&style=social&colorA=8A2BE2&colorB=8B008B" alt="stars" />
 
   <!-- Repo Size Badge -->
   <img src="https://img.shields.io/github/repo-size/kiizan/kiizan?style=flat&colorA=FF00FF&colorB=8B008B" alt="repo-size" />
 </p>
 
-<!-- Updated Commit Activity Badge -->
+<!-- Updated Commit Activity Badge with Spring Green -->
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/kiizan/kiizan?style=flat&colorA=808080&colorB=696969" alt="commit-activity" />
+  <img src="https://img.shields.io/github/commit-activity/y/kiizan/kiizan?style=flat&colorA=00FF7F&colorB=32CD32" alt="commit-activity" />
 </p>
 
 
