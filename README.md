@@ -10,7 +10,6 @@ I'm a **Data Engineer** with a passion for transforming data into actionable ins
 ### 💻 **Languages**:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### 🛠 **Tools & Frameworks**:
@@ -34,7 +33,7 @@ I'm a **Data Engineer** with a passion for transforming data into actionable ins
 ---
 
 ## 📫 How to reach me:
-- Email: **kizan@example.com** ✉️
+- Email: **quixildev** ✉️
 - LinkedIn: [Kizan LinkedIn](https://www.linkedin.com/in/kizan) 🔗
 - Twitter: [@kizan](https://twitter.com/kizan) 🐦
 
@@ -54,28 +53,28 @@ I believe data has the power to change the world, and I love making it speak thr
 
 ## 📈 GitHub Stats
 
-![Kizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Kizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiizan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ## 🚀 Projects:
-- [**Data Engineering Pipeline**](https://github.com/kizan/project1)  
+- [**Data Engineering Pipeline**](https://github.com/kiizan/project1)  
   A powerful data pipeline built to handle large-scale data ingestion and processing in real-time.
 
-- [**Automated ETL Processes**](https://github.com/kizan/project2)  
+- [**Automated ETL Processes**](https://github.com/kiizan/project2)  
   Streamlining the ETL processes using Apache Airflow and optimizing data transformation workflows.
 
-- [**Machine Learning Models**](https://github.com/kizan/project3)  
+- [**Machine Learning Models**](https://github.com/kiizan/project3)  
   Building scalable ML models that integrate with big data platforms like Apache Spark.
 
 ---
 
 ## 📊 Languages & Tools Breakdown
 
-![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs?username=kizan&show_icons=true&locale=en&layout=compact&theme=radical)
+![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs?username=kiizan&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![Kizan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kizan&theme=radical)
+![Kiizan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiizan&theme=radical)
