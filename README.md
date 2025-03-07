@@ -1,7 +1,7 @@
 # Greetings, I am Yahya Elazhari ♾️
 ### Data Engineer | Problem Solver | Data Enthusiast | Student @UM6P Morocco
 
-<img align="right" alt="Coding" width="470" height="430" src="[https://ibb.co/cKy2rG96](https://github.com/Lythss/Lyth/blob/main/BIGDATA.png?raw=true)">
+<img align="right" alt="Coding" width="470" height="430" src="https://github.com/Lythss/Lyth/blob/main/BIGDATA.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=ea00ff&style=flat" alt="kiizan" /> </p>
 
