@@ -1,4 +1,4 @@
-# Greetings, I am Yahya Elazhari ♾️
+# Greetings, I am Yahya El Azhari 🩸
 ### Data Engineer | Problem Solver | Data Enthusiast | Student @UM6P Morocco
 
 <img align="right" alt="Coding" width="470" height="430" src="https://github.com/Lythss/Lyth/blob/main/BIGDATA.png?raw=true">
