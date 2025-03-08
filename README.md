@@ -1,7 +1,7 @@
 # Greetings, I am Yahya El Azhari 🩸
 ### DataOps & Data Engineer | Pipeline Architect | Problem Solver | Tech Enthusiast From UM6P Morocco
 
-<img align="right" alt="Coding" width="470" height="430" src="https://github.com/Lythss/Lyth/blob/main/BIGDATA.png?raw=true">
+<img align="right" alt="Engineering" width="470" height="430" src="https://github.com/Lythss/Lyth/blob/main/BIGDATA.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=FF0000&style=flat" alt="kiizan" /> </p>
 
