@@ -3,7 +3,7 @@
 
 <img align="right" alt="Engineering" width="470" height="430" src="https://github.com/Lythss/Lyth/blob/main/BIGDATA.png?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%90views&color=FF0000&style=flat" alt="kiizan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiizan&label=Profile%20views&color=FF0000&style=flat" alt="kiizan" /> </p>
 
 🌱 Currently exploring **DataOps** methodologies and innovative **Data Engineering** solutions.
 
